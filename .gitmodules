@@ -1,0 +1,3 @@
+[submodule "sub_sub"]
+	path = sub_sub
+	url = https://github.com/Vilkelis/sub_sub.git
