@@ -1,0 +1,1 @@
+MAIN project (submodule test)
